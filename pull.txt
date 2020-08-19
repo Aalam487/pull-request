@@ -1,0 +1,6 @@
+name = ["salman","sharukh","varun","anil","ajay"]
+for i in name:
+  if i == "salman":
+    print("The Best actor")
+  else:
+    print("Awesome actor")
